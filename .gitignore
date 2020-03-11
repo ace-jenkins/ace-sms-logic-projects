@@ -5,3 +5,6 @@
 /ace-sms-logic-api/*.iml
 /ace-sms-logic-api-web/*.iml
 /*.iml
+/ace-sms-logic-api/target/classes/ace/sms/logic/api/
+/ace-sms-logic-api-web/target/classes/
+/.idea/
